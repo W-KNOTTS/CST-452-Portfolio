@@ -46,7 +46,7 @@ ____________________________________
 
 ![Example Image](https://github.com/W-KNOTTS/CST-451-Week4/blob/master/Resources/Capture2.PNG)
 
-![Example Image](https://github.com/W-KNOTTS/CST-451-Week4/blob/master/Resources/Week4UML-Sitemap-FlowChart.png)
+![Example Image](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/Week4UML-Sitemap-FlowChart.png)
 
 ____________________________________
 
