@@ -110,6 +110,12 @@ During this project, I gained experience in several new technologies, notably WP
 - **Project Contribution:** Integrating the MusicBrainz API enabled the application to fetch detailed and accurate metadata for media files, enhancing the media management experience.
 - **Learning Experience:** Initial challenges included outdated documentation and data parsing issues, but through community resources and persistent effort, I successfully integrated the API.
 
+### CSAudioCDRipper:
+
+- **Reason for Choosing CSAudioCDRipper:** 
+- **Project Contribution:** 
+- **Learning Experience:** 
+
 ---
 
 <div align="center">
