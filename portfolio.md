@@ -1,18 +1,22 @@
-# Welcome to my SlimMediaPlayer Project Portfolio
+<h1 align="center">Welcome to my SlimMediaPlayer Project Portfolio</h1>
 
-![SlimMediaPlayer](https://img.icons8.com/?size=100&id=mpeojql23sni&format=png&color=000000)
+<div align="center">
+  <img src="https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/icon.png" alt="SMP Icon" height="75px" width="75px">
 
-*SlimMediaPlayer GitHub Repository*
-[Link to SlimMediaPlayer](https://github.com/W-KNOTTS/CST-451-Week4/tree/master)
+*Creator:* William Knotts
 
-*Download Compiled Program*
+*SlimMediaPlayer GitHub:*
+[Link to SlimMediaPlayer Repository](https://github.com/W-KNOTTS/CST-451-Week4/tree/master)
+
+*Download:*
 [Download the compiled SlimMediaPlayer](https://github.com/W-KNOTTS/CST-452-Portfolio/releases/tag/v1.0.0R)
+</div>
 
 ---
 
 ## Introduction
 
-**Project Overview:** This media player application is designed for playing various media files. It integrates several technologies to deliver a smooth user experience, including features like CD ripping, fetching metadata from the MusicBrainz database, and comprehensive media playback management. Importantly, this application ensures user privacy by not tracking any user data.
+**Project Overview:** This media player application is designed for playing various media files. It integrates several technologies to deliver a smooth user experience, including features like CD ripping, fetching metadata from the MusicBrainz database, and comprehensive media playback management. Most importantly, this application ensures user privacy by not tracking any user data.
 
 The objective of this project is to create an all-in-one solution for media playback, showcasing my skills in full-stack development and third-party API integration, while prioritizing user privacy.
 
@@ -60,6 +64,8 @@ The objective of this project is to create an all-in-one solution for media play
 
 ---
 
+<div align="center">
+   
 ## Technologies I Used
 
 | Technology      | Icon/Image                                                                 |
@@ -69,6 +75,8 @@ The objective of this project is to create an all-in-one solution for media play
 | MusicBrainz API | ![MusicBrainz Icon](https://img.icons8.com/color/48/000000/api.png)        |
 | TagLib#         | ![TagLib Icon](https://img.icons8.com/color/48/000000/tag.png)             |
 | CSAudioCDRipper | <img src="https://avatars.githubusercontent.com/u/49074818?s=48&v=4">      |
+
+</div>
 
 ---
 
@@ -104,6 +112,8 @@ During this project, I gained experience in several new technologies, notably WP
 
 ---
 
+<div align="center">
+
 ## Technical Approach
 
 ### Design and Class Diagrams
@@ -129,6 +139,8 @@ During this project, I gained experience in several new technologies, notably WP
 **Application "Video Loaded"**
 
 ![Application "Video Loaded"](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/VideoPlayback.PNG)
+
+</div>
 
 ---
 
