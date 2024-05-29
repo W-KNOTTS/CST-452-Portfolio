@@ -5,6 +5,9 @@
 *SlimMediaPlayer GitHub Repository*
 [Link to SlimMediaPlayer](https://github.com/W-KNOTTS/CST-451-Week4/tree/master)
 
+*Download Compiled Program*
+[Download the compiled SlimMediaPlayer](https://github.com/W-KNOTTS/CST-452-Portfolio/releases/tag/v1.0.0R)
+
 ---
 
 ## Introduction
