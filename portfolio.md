@@ -100,21 +100,39 @@ During this project, I gained experience in several new technologies, notably WP
 
 ### WPF:
 
-- **Reason for Choosing WPF:** WPF was selected for its powerful feature set for building desktop applications with modern, responsive user interfaces.
-- **Project Contribution:** Using WPF allowed me to create a dynamic and visually appealing UI, enhancing the user experience.
-- **Learning Experience:** Although WPF has a steep learning curve, I utilized comprehensive documentation, online tutorials, and community support to overcome challenges and master the technology.
+- **Reason for Choosing WPF:** 
+  WPF was selected for its powerful feature set for building desktop applications with modern, responsive user interfaces.
+- **Project Contribution:** 
+  Using WPF allowed me to create a dynamic and visually appealing UI, enhancing the user experience.
+- **Learning Experience:** 
+  Although WPF has a steep learning curve, I utilized comprehensive documentation, online tutorials, and community support to overcome challenges and master the technology.
 
 ### MusicBrainz API:
 
-- **Reason for Choosing MusicBrainz API:** The MusicBrainz API was selected for its extensive music metadata database, which is essential for the application's metadata retrieval feature.
-- **Project Contribution:** Integrating the MusicBrainz API enabled the application to fetch detailed and accurate metadata for media files, enhancing the media management experience.
-- **Learning Experience:** Initial challenges included outdated documentation and data parsing issues, but through community resources and persistent effort, I successfully integrated the API.
+- **Reason for Choosing MusicBrainz API:** 
+  The MusicBrainz API was selected for its extensive music metadata database, which is essential for the application's metadata retrieval feature.
+- **Project Contribution:** 
+  Integrating the MusicBrainz API enabled the application to fetch detailed and accurate metadata for media files, enhancing the media management experience.
+- **Learning Experience:** 
+  Initial challenges included outdated documentation and data parsing issues, but through community resources and persistent effort, I successfully integrated the API.
 
 ### CSAudioCDRipper:
 
 - **Reason for Choosing CSAudioCDRipper:** 
+  The CSAudioCDRipper library was selected because of its ability to rip CD tracks to MP3, which is essential for users to legally acquire MP3 files.
 - **Project Contribution:** 
+  Integrating CSAudioCDRipper enabled the application to rip audio tracks to MP3 for later playback.
 - **Learning Experience:** 
+  Thanks to the detailed documentation provided via NuGet, the integration was seamless.
+
+### TagLib#:
+
+- **Reason for Choosing TagLib#:** 
+  TagLib# was selected for its robust capabilities in reading and writing metadata for various audio file formats, which is crucial for managing and details of media files.
+- **Project Contribution:** 
+  Integrating TagLib# allowed the application to edit and display metadata such as artist, album, track number, and genre, enhancing the application and it's ability to display details.
+- **Learning Experience:** 
+  Although initially challenging due to the different audio file formats and metadata standards, I leveraged the documentation and forums to integrate and utilize TagLib# within the project.
 
 ---
 
