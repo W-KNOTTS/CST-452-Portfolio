@@ -143,7 +143,7 @@ Several challenges were encountered and mitigated during the development of this
 
 3. **Resource Constraints:**
    - **Challenge:** Limited access to funds may have impacted the production deployment process.
-   - **Solution:** Leveraging open-source software and optimizing available tools helped overcome these constraints. Engaging with online communities and forums provided additional support.
+   - **Solution:** Leveraging open-source software and optimizing available tools helped overcome these constraints. Using online communities and forums provided additional support.
 
 4. **Budget Management:**
    - **Challenge:** Ensuring the project stayed within budget while procuring necessary tools and resources.
