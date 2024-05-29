@@ -66,7 +66,7 @@ The objective of this project is to create an all-in-one solution for media play
 
 <div align="center">
    
-## Technologies I Used
+## Technologies Used
 
 | Technology      | Icon/Image                                                                 |
 |-----------------|----------------------------------------------------------------------------|
