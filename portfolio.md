@@ -71,7 +71,7 @@ The objective of this project is to create an all-in-one solution for media play
 
 ## Industry Practices Implemented
 
-Standard industry practices were followed to ensure the application is reliable, scalable, and secure:
+Standard industry practices were followed to ensure the application is reliable, scalable, and does not track users:
 
 - **Modular Design:** The application is structured into distinct modules, each responsible for specific functionalities like CD ripping, metadata retrieval, and media playback.
 - **Event-Driven Architecture:** Events are used to manage asynchronous operations, including media playback and CD ripping progress.
