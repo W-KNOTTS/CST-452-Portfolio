@@ -1,4 +1,10 @@
-**Slim Media Player**
+## Slim Media Player
+
+[Link to Project Portfolio](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/portfolio.md)
+
+---
+
+## README.MD
 
 *William Knotts*
 
