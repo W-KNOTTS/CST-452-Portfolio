@@ -158,7 +158,7 @@ Several challenges were encountered and mitigated during the development of this
 
 3. **Resource Constraints:**
    - **Challenge:** Limited access to funds may have impacted the production deployment process.
-   - **Solution:** Leveraging open-source software and optimizing available tools helped overcome these constraints. Using online communities and forums provided additional support.
+   - **Solution:** Leveraging open-source software and optimizing available tools helped overcome these constraints. Using online forums provided additional support.
 
 4. **Budget Management:**
    - **Challenge:** Ensuring the project stayed within budget while procuring necessary tools and resources.
@@ -188,9 +188,9 @@ Despite reaching a significant milestone, several issues and areas for improveme
    - User feedback may reveal areas for improving navigation, accessibility, and visual design to better meet user needs.
 
 6. **Documentation and Maintenance:**
-   - Detailed documentation and organized code are essential for future maintenance and updates. Investing time in documenting key components and processes will facilitate ongoing development.
+   - Detailed documentation and organized code are essential for future maintenance and updates. Investing time in documenting key components and processes will allow for ongoing development.
 
-Addressing these issues and implementing necessary improvements will enhance the application's functionality and value, providing a more robust tool for users.
+Addressing these issues and implementing necessary improvements will enhance the application's functionality and value, providing a more robust media player for users.
 
 ---
 
