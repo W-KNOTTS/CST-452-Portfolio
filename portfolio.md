@@ -200,7 +200,7 @@ Despite reaching a significant milestone, several issues and areas for improveme
    - The current AudioRipper is restricted to personal and educational use, which may limit its commercial potential.
 
 2. **Deployment:**
-   - The application has been deployed Git Release in this repository.
+   - The application has been deployed Git Release in this repository. There may still be unresolved/ unknown bugs with the initial release.
 
 3. **Image Metadata:**
    - The functionality for loading cover art from sources other than CDs is incomplete. Full metadata loading from MusicBrainz for MP3 files needs to be implemented.
