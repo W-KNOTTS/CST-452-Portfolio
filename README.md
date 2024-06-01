@@ -2,6 +2,8 @@
 
 [Link to Project Portfolio](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/portfolio.md)
 
+[Link to compiled application](https://github.com/W-KNOTTS/CST-452-Portfolio/releases/tag/v1.0.0R)
+
 ---
 
 ## README.MD
@@ -41,9 +43,9 @@ ____________________________________
 
 Build the project, install any required libraries.
 
-Or Just download the precompiled program from the release page
+Or Just download the precompiled program from the release page, link at the top of this page.
 
-Play and rip your music!
+Rip and Play your music!
 
 ____________________________________
 
@@ -113,8 +115,19 @@ To load a video file, click the "Select Directory Button", navigate to the direc
 ![Playing Video](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/VideoSelected-playing.PNG)
 
 To play the video, select the video in the list and click play. The next video in the list will load once the current one finishes.
+
 ____________________________________
 
+**Manual Metadata Updating**
+
+![To Update Metadata"](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/MetaDataManualUpdate1.PNG)
+
+To update the metadata of a track manually, select the track in the list and fill out the metadata you wish to change
+
+![Playing Video](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/MetaDataManualUpdate2.PNG)
+
+Once you enter your changes, click the "Update Metadata button", you will then be presented with a successful update window. Thats It! now it has your entered metadata.
+____________________________________
 
 
 ***Project Planning***
