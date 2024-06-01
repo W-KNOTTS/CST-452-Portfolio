@@ -51,17 +51,17 @@ ____________________________________
 
 ## Operation Instructions
 
-**CD in the Drive at Application Start**
-
-![Program Started With CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/FirstOpen-wCD.PNG)
-
-Above shows an example if the application starts with a CD in the CD Drive
-
 **No CD in the Drive at Start**
 
 ![Program Started Without CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/FirstOpen-NoCD.PNG)
 
 Above shows an example if the application starts with no CD in the CD Drive
+
+**CD in the Drive at Application Start**
+
+![Program Started With CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/FirstOpen-wCD.PNG)
+
+Above shows an example if the application starts with a CD in the CD Drive
 
 ____________________________________
 
@@ -136,9 +136,6 @@ ____________________________________
 
 ![Example Image](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/Week4UML-Sitemap-FlowChart.png)
 
-____________________________________
-
-**Loading a CD to Rip Tracks**
 
 ____________________________________
 
