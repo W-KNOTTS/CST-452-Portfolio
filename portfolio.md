@@ -267,3 +267,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 MusicBrainzAPI. (n.d.). NuGet Gallery, from https://www.nuget.org/packages/MusicBrainzAPI
 
 MusicBrainzAPI. (n.d.). MusicBrainz, from https://musicbrainz.org/doc/MusicBrainz_API
+
+Prtfolio Template from Elijah Saavedra
+https://github.com/Eli9Saavedra/ProjectPortfolio/blob/main/ProjectPortfolio.md
+
