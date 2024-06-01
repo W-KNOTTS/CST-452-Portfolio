@@ -41,8 +41,83 @@ ____________________________________
 
 Build the project, install any required libraries.
 
+Or Just download the precompiled program from the release page
+
 Play and rip your music!
+
 ____________________________________
+
+## Operation Instructions
+
+**CD in the Drive at Application Start**
+
+![Program Started With CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/FirstOpen-wCD.PNG)
+
+Above shows an example if the application starts with a CD in the CD Drive
+
+**No CD in the Drive at Start**
+
+![Program Started Without CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/FirstOpen-NoCD.PNG)
+
+Above shows an example if the application starts with no CD in the CD Drive
+
+____________________________________
+
+**Loading a CD to Rip Tracks**
+
+![Loading a CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RefreshCD-SelectDrive.png)
+
+To load a CD, Click the CD drive Combo Box and select your CDRom drive.
+
+**Select a CD track to Rip and save loaction**
+
+![Ripping a CD Track](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RipButtonCDLoadedSaveLocation.PNG)
+
+Select a track in the list and click the "Rip Song Button", then Create/ Select a location to save the MP3 file.
+
+![Ripping a CD Track](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RipSelectedTrack.PNG)
+
+Once the rip starts you will be presented with a "Ripping progress %" below the metadata
+
+**Selected Track Rip Finished**
+
+![Ripping a CD Track](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RipFinished-MetadataUpdatedPNG.PNG)
+
+Once the track copies to your save loaction, the MP3 will have the track number inserted as the track title and the Rip % will now say "Ripping completed successfully" and you will be presented with a popup letting you know the metadata was updated on your new MP3 file.
+
+**New CD loaded to Rip Tracks**
+
+![Loading a CD In the Drive](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RefreshCD-CDRefreshed.png)
+
+If you wish to change the disc that you would like to rip, click the cd rom drive combo box to refresh the CD. When the new CD Loads, metatadata will be loaded from MusicBrainz based on the Disc ID.
+____________________________________
+
+**Audio Playback**
+
+![To load a MP3 file"](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/SelectMP3Directory.PNG)
+
+To load a MP3 file, click the "Select Directory Button", navigate to the directory where the MP3 files were ripped to and double click a track
+
+![Playing MP3](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/PlayMP3File.PNG)
+
+To play the track, select the song in the list and click play. The next track in the list will load once the current song finishes.
+
+____________________________________
+
+**Video Playback**
+
+![To load a Video file"](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/SelectVideoDirectory.PNG)
+
+To load a video file, click the "Select Directory Button", navigate to the directory where the video files saved and double click a video.
+
+![Playing Video](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/VideoSelected-playing.PNG)
+
+To play the video, select the video in the list and click play. The next video in the list will load once the current one finishes.
+____________________________________
+
+
+
+***Project Planning***
 
 ![Example Image](https://github.com/W-KNOTTS/CST-451-Week4/blob/master/Resources/Capture2.PNG)
 
@@ -50,6 +125,9 @@ ____________________________________
 
 ____________________________________
 
+**Loading a CD to Rip Tracks**
+
+____________________________________
 
 ***Copyright Compliance***
 
