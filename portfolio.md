@@ -268,6 +268,6 @@ MusicBrainzAPI. (n.d.). NuGet Gallery, from https://www.nuget.org/packages/Music
 
 MusicBrainzAPI. (n.d.). MusicBrainz, from https://musicbrainz.org/doc/MusicBrainz_API
 
-Prtfolio Template from Elijah Saavedra
+Portfolio Template from Elijah Saavedra
 https://github.com/Eli9Saavedra/ProjectPortfolio/blob/main/ProjectPortfolio.md
 
