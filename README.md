@@ -85,7 +85,7 @@ Once the rip starts you will be presented with a "Ripping progress %" below the 
 
 ![Ripping a CD Track](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/Resources/RipFinished-MetadataUpdatedPNG.PNG)
 
-Once the track copies to your save loaction, the MP3 will have the track number inserted as the track title and the Rip % will now say "Ripping completed successfully" and you will be presented with a popup letting you know the metadata was updated on your new MP3 file.
+Once the track copies to your save loaction, the MP3 will have the track number inserted as the track title and the Rip % will now say "Ripping completed successfully". You will be presented with a popup letting you know the metadata was updated on your new MP3 file.
 
 **New CD loaded to Rip Tracks**
 
