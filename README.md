@@ -2,7 +2,7 @@
 
 [Link to Project Portfolio](https://github.com/W-KNOTTS/CST-452-Portfolio/blob/main/portfolio.md)
 
-[Link to compiled application](https://github.com/W-KNOTTS/CST-452-Portfolio/releases/tag/v1.0.0R)
+[Link to compiled application](https://github.com/W-KNOTTS/CST-452-Portfolio/releases/tag/v2.0.0R)
 
 ---
 
